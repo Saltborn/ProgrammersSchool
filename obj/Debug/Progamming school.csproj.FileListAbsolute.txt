@@ -1,0 +1,7 @@
+c:\users\newer\source\repos\Progamming school\Progamming school\bin\Debug\Progamming school.exe.config
+c:\users\newer\source\repos\Progamming school\Progamming school\bin\Debug\Progamming school.exe
+c:\users\newer\source\repos\Progamming school\Progamming school\bin\Debug\Progamming school.pdb
+c:\users\newer\source\repos\Progamming school\Progamming school\obj\Debug\Progamming school.csprojAssemblyReference.cache
+c:\users\newer\source\repos\Progamming school\Progamming school\obj\Debug\Progamming school.csproj.CoreCompileInputs.cache
+c:\users\newer\source\repos\Progamming school\Progamming school\obj\Debug\Progamming school.exe
+c:\users\newer\source\repos\Progamming school\Progamming school\obj\Debug\Progamming school.pdb
