@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProgammingSchool
+namespace Basic
 {
-    public class Program
+    public class Adder
     {
-        static void Main(string[] args)
+        public static int Add(int a, int b)
         {
-            
+            return a + b;
         }
     }
 }
-
